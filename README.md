@@ -1,2 +1,3 @@
-# hello-world
-This repository is for practicing the GitHub Flow
+# A little about Alejandro Baeza F00595974
+
+# I am a CS/Finance major. Currently, this is my senior year. I am also completely my CS masters (as indicated by my enrollment in this class). I hope to move to chicago after graduation amd become a quantative researcher for a hedge fund or high frequency trading firm. It is super competitive, so I am trying my best to be involved in extracurriculars and keep my GPA high. Leetcode !! In my free time, I like to build computers and keyboards. I have two pet bunnies. Theyre cute but a headache. Probably the most important thing about me is that I love to learn. Doesnt just have to be centered around my concentration, or even my majors. Knowledge is the greatest gift one can recieve. 
